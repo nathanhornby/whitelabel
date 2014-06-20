@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="whitelabel" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
+	<name>Whitelabel</name>
+	<description>Customise the backend.</description>
+	<repo type="github"></repo>
+	<url type="discuss"></url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="nathanhornby" symphony="nathanhornby">Nathan Hornby</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date="2014-06-20" min="2.4" />
+	</releases>
+</extension>

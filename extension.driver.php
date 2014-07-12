@@ -17,7 +17,7 @@
 			$context = $page->getContext();
 
 			$callback = Administration::instance()->getPageCallback();
-				$page->addStylesheetToHead(URL . '/extensions/whitelabel/assets/whitelabel.main.css', 'screen', 9001);
+				$page->addStylesheetToHead(URL . '/workspace/css/whitelabel.main.css', 'screen', 9001);
 		}
 
 	}

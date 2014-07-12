@@ -2,8 +2,7 @@
 <extension id="whitelabel" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
 	<name>Whitelabel</name>
 	<description>Customise the backend.</description>
-	<repo type="github"></repo>
-	<url type="discuss"></url>
+	<repo type="github">https://github.com/nathanhornby/whitelabel</repo>
 	<types>
 		<type>Interface</type>
 	</types>

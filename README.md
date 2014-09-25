@@ -1,3 +1,5 @@
+*This is a very basic extension that is only vaguely useful - for proper white labelling of the backend there are better options available!*
+
 # Whitelabel
  
 ## Purpose
